@@ -77,7 +77,7 @@
 
 ### AWS WAF 사용
 
-[4. AWS WAF를 사용한 이유]([https://github.com/b1-sycls/sycls/wiki/AWS-WAF%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%9D%B4%EC%9C%A0](https://github.com/Chanwon-Seo/E-Ticket/wiki/AWS-WAF%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%9D%B4%EC%9C%A0))
+[4. AWS WAF를 사용한 이유](https://github.com/Chanwon-Seo/E-Ticket/wiki/AWS-WAF%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%9D%B4%EC%9C%A0)
 
 ### ElastiCache 도입
 
