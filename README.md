@@ -50,7 +50,7 @@
 <h2 id="아키텍처" style="border: none;">🏗아키택처</h2>
 
 ![B1-Architecture-last drawio](https://github.com/user-attachments/assets/74187d81-0140-426b-9076-cf7594fff457)
-[🏗 아키텍처 Wiki](https://github.com/b1-sycls/sycls/wiki/%F0%9F%8F%97-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+[🏗 아키텍처 Wiki](https://github.com/Chanwon-Seo/E-Ticket/wiki/%F0%9F%8F%97-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 
 
 ## ERD
@@ -58,64 +58,64 @@
 
 <h2 id="주요-기술" style="border: none;">🍀주요 기술</h2>
 
-- [🍀 주요 기술](https://github.com/b1-sycls/sycls/wiki/%F0%9F%8D%80-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EC%88%A0)
+- [🍀 주요 기술](https://github.com/Chanwon-Seo/E-Ticket/wiki/%F0%9F%8D%80-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EC%88%A0)
 
 <h2 id="기술적-의사-결정" style="border: none;">🗣️기술적 의사 결정</h2>
 
 ### 서비스 단위의 아키텍처 구성
 
-[1. 서비스 단위의 아키텍처 구성](https://github.com/b1-sycls/sycls/wiki/%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%8B%A8%EC%9C%84%EC%9D%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%EC%84%B1)
+[1. 서비스 단위의 아키텍처 구성](https://github.com/Chanwon-Seo/E-Ticket/wiki/%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%8B%A8%EC%9C%84%EC%9D%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%EC%84%B1)
 
 ### CI/CD 파이프라인 구축과 자동화
 
-[2. CI/CD 파이프라인 구축과 자동화](https://github.com/b1-sycls/sycls/wiki/CI-CD-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95%EA%B3%BC-%EC%9E%90%EB%8F%99%ED%99%94)
+[2. CI/CD 파이프라인 구축과 자동화](https://github.com/Chanwon-Seo/E-Ticket/wiki/CI-CD-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95%EA%B3%BC-%EC%9E%90%EB%8F%99%ED%99%94)
 
 ### 무중단 배포
 
-[3. 무중단 배포를 결정한 이유](https://github.com/b1-sycls/sycls/wiki/%EB%AC%B4%EC%A4%91%EB%8B%A8-%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EA%B2%B0%EC%A0%95%ED%95%9C-%EC%9D%B4%EC%9C%A0)
+[3. 무중단 배포를 결정한 이유](https://github.com/Chanwon-Seo/E-Ticket/wiki/%EB%AC%B4%EC%A4%91%EB%8B%A8-%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EA%B2%B0%EC%A0%95%ED%95%9C-%EC%9D%B4%EC%9C%A0)
 
 
 ### AWS WAF 사용
 
-[4. AWS WAF를 사용한 이유](https://github.com/b1-sycls/sycls/wiki/AWS-WAF%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%9D%B4%EC%9C%A0)
+[4. AWS WAF를 사용한 이유]([https://github.com/b1-sycls/sycls/wiki/AWS-WAF%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%9D%B4%EC%9C%A0](https://github.com/Chanwon-Seo/E-Ticket/wiki/AWS-WAF%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%9D%B4%EC%9C%A0))
 
 ### ElastiCache 도입
 
-[5. ElastiCache](https://github.com/b1-sycls/sycls/wiki/ElastiCache)
+[5. ElastiCache](https://github.com/Chanwon-Seo/E-Ticket/wiki/ElastiCache)
 
 ### 공연 좌석 무분별 점유 문제 해결
 
-[6. 공연 좌석 무분별 점유 문제 및 해결 필요성](https://github.com/b1-sycls/sycls/wiki/%EA%B3%B5%EC%97%B0-%EC%A2%8C%EC%84%9D-%EB%AC%B4%EB%B6%84%EB%B3%84-%EC%A0%90%EC%9C%A0-%EB%AC%B8%EC%A0%9C-%EB%B0%8F-%ED%95%B4%EA%B2%B0-%ED%95%84%EC%9A%94%EC%84%B1)
+[6. 공연 좌석 무분별 점유 문제 및 해결 필요성](https://github.com/Chanwon-Seo/E-Ticket/wiki/%EA%B3%B5%EC%97%B0-%EC%A2%8C%EC%84%9D-%EB%AC%B4%EB%B6%84%EB%B3%84-%EC%A0%90%EC%9C%A0-%EB%AC%B8%EC%A0%9C-%EB%B0%8F-%ED%95%B4%EA%B2%B0-%ED%95%84%EC%9A%94%EC%84%B1)
 
 ### 토큰 관리 방법
-[7. 토큰 관리 방법](https://github.com/b1-sycls/sycls/wiki/%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95)
+[7. 토큰 관리 방법](https://github.com/Chanwon-Seo/E-Ticket/wiki/%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95)
 
 <h2 id="트러블-슈팅" style="border: none;">🛠트러블 슈팅</h2>
 
 ### Spring boot 3.x ElastiCache for Redis Connection 문제
 
-[1. Spring Boot와 ElastiCache 연결 문제](https://github.com/b1-sycls/sycls/wiki/Spring-Boot%EC%99%80-ElastiCache-%EC%97%B0%EA%B2%B0-%EB%AC%B8%EC%A0%9C)
+[1. Spring Boot와 ElastiCache 연결 문제](https://github.com/Chanwon-Seo/E-Ticket/wiki/Spring-Boot%EC%99%80-ElastiCache-%EC%97%B0%EA%B2%B0-%EB%AC%B8%EC%A0%9C)
 
 ### Redis Token 관리 문제
 
-[2. Redis Token 관리 구조 문제](https://github.com/b1-sycls/sycls/wiki/Redis-Token-%EA%B4%80%EB%A6%AC-%EA%B5%AC%EC%A1%B0-%EB%AC%B8%EC%A0%9C)
+[2. Redis Token 관리 구조 문제](https://github.com/Chanwon-Seo/E-Ticket/wiki/Redis-Token-%EA%B4%80%EB%A6%AC-%EA%B5%AC%EC%A1%B0-%EB%AC%B8%EC%A0%9C)
 
 ### @RequestBody와 @RequestPart 동시 수신 문제
 
-[3. @RequestBody 와 @RequestPart 동시에 받기](https://github.com/b1-sycls/sycls/wiki/@RequestBody-%EC%99%80-@RequestPart-%EB%8F%99%EC%8B%9C%EC%97%90-%EB%B0%9B%EA%B8%B0)
+[3. @RequestBody 와 @RequestPart 동시에 받기](https://github.com/Chanwon-Seo/E-Ticket/wiki/@RequestBody-%EC%99%80-@RequestPart-%EB%8F%99%EC%8B%9C%EC%97%90-%EB%B0%9B%EA%B8%B0)
 
 ### 좌석 점유 캐싱 문제
 
-[4. 좌석 점유 캐싱](https://github.com/b1-sycls/sycls/wiki/%EC%A2%8C%EC%84%9D-%EC%A0%90%EC%9C%A0-%EC%BA%90%EC%8B%B1)
+[4. 좌석 점유 캐싱](https://github.com/Chanwon-Seo/E-Ticket/wiki/%EC%A2%8C%EC%84%9D-%EC%A0%90%EC%9C%A0-%EC%BA%90%EC%8B%B1)
 
 ### 조회 성능 최적화
 
-[5. 조회 성능 최적화 ( 유저 피드백 )](https://github.com/b1-sycls/sycls/wiki/5.-%EC%A1%B0%ED%9A%8C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-(-%EC%9C%A0%EC%A0%80-%ED%94%BC%EB%93%9C%EB%B0%B1-))
+[5. 조회 성능 최적화 ( 유저 피드백 )](https://github.com/Chanwon-Seo/E-Ticket/wiki/5.-%EC%A1%B0%ED%9A%8C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-(-%EC%9C%A0%EC%A0%80-%ED%94%BC%EB%93%9C%EB%B0%B1-))
 
 ### 좌석 등급 관리 문제
 
-[6. 좌석‐등급 관리 방법 변경](https://github.com/b1-sycls/sycls/wiki/%EC%A2%8C%EC%84%9D%E2%80%90%EB%93%B1%EA%B8%89-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-%EB%B3%80%EA%B2%BD)
+[6. 좌석‐등급 관리 방법 변경](https://github.com/Chanwon-Seo/E-Ticket/wiki/%EC%A2%8C%EC%84%9D%E2%80%90%EB%93%B1%EA%B8%89-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-%EB%B3%80%EA%B2%BD)
 
 ### Double Submit 방지
 
-[7. Double Submit 방지](https://github.com/b1-sycls/sycls/wiki/Double-Submit-%EB%B0%A9%EC%A7%80)
+[7. Double Submit 방지](https://github.com/Chanwon-Seo/E-Ticket/wiki/Double-Submit-%EB%B0%A9%EC%A7%80)
